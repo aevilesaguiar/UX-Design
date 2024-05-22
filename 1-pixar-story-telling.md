@@ -53,13 +53,20 @@ Deixe claro
 
 Siga o modelo abaixo:
 
-Era uma vez um paciente que morava em São Bernardo do Campo, ele estava com muitas dores e precisava de apoio profissional. Todos os dias esse paciente tirava algumas horas do seu tempo para buscar clinicas que pudesse atendê-lo. Um certo dia  _________ .Por causa disso, ________. Por causa disso___________. Até que finalmente __________.
+Era uma vez um paciente chamado João que morava em São Bernardo do Campo e sofria com muitas dores na coluna. Todos os dias, ele tirava algumas horas do seu tempo para buscar clínicas que pudessem atendê-lo, mas as clínicas estavam todas desatualizadas no cadastro do convênvio.
+
+Um certo dia, João abriu o aplicativo de saúde e percebeu que poderia melhorar a forma como as informações eram apresentadas, permitindo que as próprias clínicas mantivessem seus cadastros atualizados, incluindo o tipo de convênio e especialidade que atendiam.
+
+Por causa disso, João ganhou muito mais agilidade na busca pela especialidade correta. Por causa disso, ele ficou muito mais satisfeito com as informações valiosas e precisas que encontrou.
+
+Até que finalmente, João encontrou a clínica e a especialidade que precisava, resolveu seu problema e aliviou suas dores na coluna.
 
 Poste aqui sua resposta:
 
-Quando você deve utilizar os Pixar Storytelling?
+Quando você deve utilizar os Pixar Storytelling?quando precisar deixar claro para sua equipe a importância de construir o seu produto.
 
 Descreva em uma linha qual é o SEU PROBLEMA que você escolheu para aplicar os conhecimentos desse curso.
+Dificuldades de encontrar clinicas que atendam o meu convenio e especialidade.
 
 
 
