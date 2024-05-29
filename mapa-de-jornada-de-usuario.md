@@ -3,6 +3,8 @@
 A mapa de jprnada de usuáriovisa entender o antes, o durante e o depois do usuário.
 Outro ponto importante é pensar com empatia, o mapa de usuário te ajuda a pensar com a cabeça do usuário
 
+Mapa da Jornada do Usuário é um diagrama que mostra os passos do consumidor ao usar um produto. Permite entender o que o usuário pensa, sente e o que ele consome para tomar decisões. Você deve usar o Mapa da Jornada do Usuário quando precisar entender as motivações do usuário e descobrir oportunidades de novos serviços.
+
 
 O que é o mapa da jornada do usuário?
 
