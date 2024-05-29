@@ -21,3 +21,5 @@ Depois você vai incluir no canvas espaços para você pensar com empatia, pensa
 Na prática como funciona, nesse caso foi feito o mapa de empatia do trem europeu RAIL EUROPE
 
 <img width="631" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/3e83fdf3-bc36-4742-9f5c-23f011e718f7">
+
+Se fosse necessário criar um blueprint eu usaria : TRAVEL.
