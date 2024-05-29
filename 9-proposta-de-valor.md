@@ -18,13 +18,16 @@ Qual a proposta de valor da NESSPRESSO
 <img width="412" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/8820ca35-2800-431d-8a9d-ff0b63dcf095">
 
 
+
 TE LEVAR DE UM LADO A OUTRO COM MAIS FACILIDADE.
 
 Quando entramos em sites de startups , ela foca no valor que entrega para o cliente.
 
-Ex airbnb
+Ex airbnb:
+
 
 <img width="311" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/2242a665-fab9-4ec7-914c-beea6fe1a23e">
+
 
 Como escrever uma proposta de valor:
 
