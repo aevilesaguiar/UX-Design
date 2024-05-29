@@ -11,10 +11,13 @@ Quais os valores que estão por trás das ideias.
 
 Qual a proposta de valor da NESSPRESSO
 
+
 <img width="296" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/0e9ccac9-bc13-485a-acc1-dca50b111402">
 
 
 <img width="412" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/8820ca35-2800-431d-8a9d-ff0b63dcf095">
+
+
 TE LEVAR DE UM LADO A OUTRO COM MAIS FACILIDADE.
 
 Quando entramos em sites de startups , ela foca no valor que entrega para o cliente.
