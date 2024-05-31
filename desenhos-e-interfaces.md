@@ -123,4 +123,6 @@ Protótipo é um modelo inicial de um produto que está em fase de desenvolvimen
 
 Bibliotecas de padrões para utilizar os elementos de telas em nossos produtos de uma forma padronizada sem focar em recriá-las. Levar a preocupação para o funcional e não para o artistico.
 
+https://elements.envato.com/pt-br/?gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADq1wQbcxNfYiVxGW4I6V33K4nWZS5Lo6m7cAzvxVdrHI5UYyqczi2gaAry3EALw_wcB
 
+https://icons.getbootstrap.com/
