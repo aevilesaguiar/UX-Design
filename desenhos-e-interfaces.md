@@ -113,5 +113,14 @@ O Wireframe irá te ajudar a testar 3 coisas:
 
 <img width="329" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/8764a1fd-01f3-4000-8236-44f44a56b267">
 
-**Protótipo**
+**Protótips**
+
+Uma forma de analisar se seus desenhos realmente trarão resultados.
+
+Protótipo é um modelo inicial de um produto que está em fase de desenvolvimento e testes. Essas versões são muito utilizadas para testar funcionalidades, captar a opinião de pessoas usuárias em pesquisas e até mesmo ser base para MVPs (Minimum Viable Product).
+
+**Styleguides**
+
+Bibliotecas de padrões para utilizar os elementos de telas em nossos produtos de uma forma padronizada sem focar em recriá-las. Levar a preocupação para o funcional e não para o artistico.
+
 
