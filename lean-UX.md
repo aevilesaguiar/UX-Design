@@ -365,5 +365,95 @@ Quando utilizar os protótipos para testar essas ideias?
 Deve saber quando usar cada tipo de protótipo 
 
 
+**PROCESSO DE TRABALHO**
+
+<img width="403" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/ba1477ee-db10-430c-b49c-1608979e70b1">
+
+
+<img width="446" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/01d7adbb-00c6-45fe-babc-7365b08429ee">
+
+
+<img width="621" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/94fc9558-38ad-4c37-ad4e-261617f87d8b">
+
+
+<img width="336" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/767a2f0c-4bf6-47f5-ae45-657dd8eb87bd">
+
+
+Apresentação das ideias:
+
+<img width="413" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/2378ccd9-730c-438a-9bd6-f21270bcd033">
+
+
+<img width="403" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/a79d08bc-014f-42a4-bdde-d71eb92c9053">
+
+
+O time vai trabalhar em uma ideia unica
+
+<img width="405" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/3e207a9b-b0c8-4aa4-9649-f033402cbc4d">
+
+
+MVP e experimentos
+
+
+<img width="371" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/07aef3ac-18e2-4f17-b9b5-dca75e36b915">
+
+
+<img width="353" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/54a70329-9674-45cf-aca2-ba9de10789c0">
+
+
+<img width="288" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/43d97c2e-1150-4453-8ac9-5b590f00921e">
+
+
+<img width="329" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/f1344608-f78d-4496-8c69-9790ccc15493">
+
+
+<img width="460" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/fb7643a2-84d4-45f6-9227-c1b777fd404e">
+
+
+<img width="409" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/d1294d47-08ea-4672-91db-ccd8189c987a">
+
+
+<img width="404" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/ce360615-dd20-4947-afef-2f9bff53fbd7">
+
+
+<img width="386" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/f626661c-fd29-4c9f-930e-0534a190e416">
+
+
+<img width="387" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/ce4f1eda-0992-43d5-a204-163873272245">
+
+
+<img width="404" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/12ba2221-adf8-4207-8588-d673656dd6bc">
+
+
+<img width="335" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/6e4acdd3-2523-476c-9ee6-663442665a28">
+
+
+<img width="427" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/7a9b3978-ac0d-4403-81ad-87c36ae80302">
+
+
+<img width="422" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/6e47698b-34d9-43ea-aaa0-17e8c98a5b32">
+
+
+<img width="422" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/0944f77f-3b69-45ff-84ab-19e4805d295a">
+
+
+<img width="370" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/6a95fe12-c6d4-4f29-b9e1-8bceff271cbf">
+
+
+<img width="437" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/dc2f3ac6-1f1e-4276-8ab0-c7be14dfb020">
+
+
+<img width="380" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/e401bad3-2de9-482a-a83d-9a7559e7a294">
+
+
+<img width="389" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/4a0eac50-61a7-4b2e-b812-dbe488a2ff98">
+
+
+<img width="378" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/5c5e9e9a-a24e-463b-9c16-c008063c17b0">
+
+
+<img width="314" alt="image" src="https://github.com/aevilesaguiar/UX-Design/assets/52088444/fe44e285-88fc-4e38-80d3-c0314c20c4df">
+
+
 
 
